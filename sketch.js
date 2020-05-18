@@ -45,7 +45,7 @@ inputimg.position(20,130);
   sSlider.position(20, 190);
   wSlider = createSlider(1,999);
   wSlider.position(20, 220);
-  pSlider = createSlider(window.innerWidth/4,window.innerWidth/2);
+  pSlider = createSlider(window.innerWidth/4,window.innerWidth/1.1);
   pSlider.position(20, 250);
     hSlider = createSlider(window.innerHeight/28, window.innerHeight/1.5);
   hSlider.position(20, 280);
